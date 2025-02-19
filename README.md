@@ -3,6 +3,7 @@
 A new Flutter project.
 login and register with firebase 
 and get the data from the firebase database
+and validate the user 
 
 ## Getting Started
 
